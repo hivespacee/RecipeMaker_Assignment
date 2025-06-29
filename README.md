@@ -1,14 +1,11 @@
-## Run this app locally ##
+## Successfull Search
+![successful](https://github.com/user-attachments/assets/e5cab236-93e5-494c-bd68-2801fc970a42)
 
-http://localhost:5173/
+## Unsuccessfull Search
+![unsuccessful](https://github.com/user-attachments/assets/941002fe-d9c3-4494-af0d-b56d3e90fdea)
 
-## Outputs ##
-![Screenshot 2025-06-28 233450](https://github.com/user-attachments/assets/f8bd1c6c-34f1-44b8-bfb8-0acd19357157)
-
-![Screenshot 2025-06-28 233529](https://github.com/user-attachments/assets/c56caefe-d3de-4265-8dc8-91521d99b320)
-
-![Screenshot 2025-06-28 233630](https://github.com/user-attachments/assets/94a75972-6080-42be-936b-02f1caa4a68f)
-
-![Screenshot 2025-06-28 233613](https://github.com/user-attachments/assets/480f2f65-22ad-471c-9bf4-29b26505a7b6)
-
+## Details of the Recipe
+![data1](https://github.com/user-attachments/assets/378580e1-d698-48f0-acfa-80ea69974dc2)
+![data2](https://github.com/user-attachments/assets/4b51a020-66b9-40d1-a143-76fb7bb67f95)
+![data3](https://github.com/user-attachments/assets/82c62302-9878-455b-be61-9433158fd654)
 
